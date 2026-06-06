@@ -1,0 +1,601 @@
+Order ID,Customer Name,Product,Quantity
+166837,Veeru,34in Ultrawide Monitor,2
+166838,Tarun,Samsung m10,3
+166839,Kedar,20in Monitor,1
+166840,Lavanya,iPhone 11,3
+166841,Venu,Macbook Pro Laptop,2
+166842,Venu,Bose SoundSport Headphones,2
+166843,Harsha,27in 4K Gaming Monitor,2
+166844,Harsha,Samsung m10,1
+166845,Siddhu,34in Ultrawide Monitor,2
+166846,Siddhu,iPhone 11,1
+166847,Venu,Samsung m10,2
+166848,Karteek,Macbook Pro Laptop,1
+166849,Shahid,ThinkPad Laptop,1
+166849,Siddhu,27in 4K Gaming Monitor,1
+166850,Jaya Chandra,Bose SoundSport Headphones,1
+166851,Jaya Chandra,Macbook Pro Laptop,1
+166852,Madhurima,iPhone 7s,2
+166853,Kedar,Samsung m10,1
+166854,Tarun,iPhone 7,1
+166855,Sumanth,Samsung m10,2
+166856,Mallikarjun,Wired Headphones,1
+166857,Tarun,27in FHD Monitor,1
+166858,Chaithanya,iPhone 11,1
+166859,Vijay,27in FHD Monitor,1
+166860,Chaithanya,LG Dryer,1
+166861,Veeru,Wired Headphones,1
+166862,Lavanya,34in Ultrawide Monitor,1
+166863,Karteek,iPhone 7,1
+166864,Venu,USB-C Charging Cable,1
+166865,Vinay,27in FHD Monitor,2
+166866,Nireekshan,Flatscreen TV,2
+166867,Nireekshan,iPhone 7,1
+166868,Venu,iPhone 7,1
+166869,Madhurima,USB-C Charging Cable,3
+166870,Veeru,Wired Headphones,2
+166871,Neelima,Apple Airpods Headphones,1
+166872,Venu,iPhone 9,1
+166873,Nireekshan,USB-C Charging Cable,1
+166874,Kedar,AA Batteries (4-pack),1
+166875,Madhurima,AA Batteries (4-pack),2
+166876,Partha,Samsung m20,1
+166877,Neelima,iPhone 11,1
+166878,Partha,ThinkPad Laptop,1
+166879,Vinay,LG Washing Machine,1
+166880,Siddhu,iPhone 7,2
+166881,Siddhu,USB-C Charging Cable,3
+166882,Lavanya,Samsung m20,1
+166883,Sumanth,iPhone 9,1
+166884,Jaya Chandra,Google Phone,1
+166885,Pradhan,AA Batteries (4-pack),1
+166886,Jaya Chandra,27in 4K Gaming Monitor,1
+166887,Venki,Apple Airpods Headphones,2
+166888,Sagar,iPhone 9,1
+166889,Venki,LG Washing Machine,3
+166890,Harsha,Samsung m10,1
+166891,Venki,Bose SoundSport Headphones,1
+166892,Vijay,LG Dryer,1
+166893,Harsha,USB-C Charging Cable,1
+166894,Venki,USB-C Charging Cable,1
+166895,Siddhu,Bose SoundSport Headphones,2
+166896,Harsha,Samsung m20,1
+166897,Veeru,USB-C Charging Cable,2
+166898,Venu,LG Dryer,1
+166899,Nireekshan,iPhone 7,1
+166900,Siddhu,USB-C Charging Cable,2
+166901,Veeru,Samsung m10,2
+166902,Sumanth,AA Batteries (4-pack),2
+166903,Vijay,ThinkPad Laptop,2
+166904,Lavanya,iPhone 11,1
+166905,Karteek,27in FHD Monitor,1
+166906,Harsha,iPhone 7s,1
+166907,Karteek,Macbook Pro Laptop,1
+166908,Madhurima,AA Batteries (4-pack),1
+166909,Pradhan,ThinkPad Laptop,2
+166910,Nireekshan,Samsung m10,2
+166911,Siddhu,Flatscreen TV,1
+166912,Karteek,iPhone 9,1
+166913,Veeru,iPhone 9,1
+166914,Vinay,iPhone 7,1
+166915,Shahid,Wired Headphones,1
+166916,Chaithanya,27in FHD Monitor,1
+166917,Chaithanya,Wired Headphones,2
+166918,Partha,USB-C Charging Cable,1
+166919,Pradhan,Bose SoundSport Headphones,1
+166920,Jaya Chandra,ThinkPad Laptop,2
+166920,Veeru,iPhone 9,2
+166921,Partha,LG Dryer,1
+166922,Karteek,Google Phone,1
+166923,Veeru,27in FHD Monitor,1
+166924,Chaithanya,Bose SoundSport Headphones,2
+166925,Chaithanya,iPhone 11,2
+166926,Vijay,LG Washing Machine,3
+166927,Harsha,Samsung m10,1
+166928,Balaji,iPhone 9,1
+166929,Neelima,27in FHD Monitor,1
+166930,Venu,Bose SoundSport Headphones,1
+166931,Madhurima,27in 4K Gaming Monitor,1
+166932,Shahid,USB-C Charging Cable,1
+166933,Shahid,Samsung m10,2
+166934,Karteek,AA Batteries (4-pack),3
+166935,Neelima,27in 4K Gaming Monitor,2
+166936,Tarun,Bose SoundSport Headphones,1
+166937,Sumanth,LG Dryer,1
+166938,Partha,Flatscreen TV,3
+166939,Mallikarjun,Samsung m20,2
+166940,Mallikarjun,27in 4K Gaming Monitor,1
+166941,Madhurima,USB-C Charging Cable,1
+166942,Tarun,20in Monitor,1
+166943,Kedar,AA Batteries (4-pack),2
+166944,Karteek,iPhone 9,1
+166945,Chaithanya,Samsung m20,1
+166946,Venu,Apple Airpods Headphones,1
+166947,Venu,Bose SoundSport Headphones,1
+166948,Veeru,Samsung m10,1
+166949,Sagar,Samsung m10,1
+166950,Neelima,USB-C Charging Cable,2
+166951,Kedar,20in Monitor,1
+166952,Veeru,LG Washing Machine,2
+166953,Tarun,20in Monitor,1
+166954,Vijay,ThinkPad Laptop,3
+166955,Kedar,Samsung m20,1
+166956,Siddhu,Bose SoundSport Headphones,1
+166957,Harsha,Macbook Pro Laptop,2
+166958,Nireekshan,AA Batteries (4-pack),1
+166959,Vinay,Bose SoundSport Headphones,1
+166960,Pradhan,Wired Headphones,3
+166961,Venki,Flatscreen TV,1
+166962,Sagar,AA Batteries (4-pack),2
+166963,Nireekshan,Samsung m20,1
+166964,Veeru,Samsung m10,1
+166965,Veeru,Bose SoundSport Headphones,1
+166966,Karteek,iPhone 11,1
+166967,Kedar,27in 4K Gaming Monitor,1
+166967,Sagar,34in Ultrawide Monitor,1
+166968,Veeru,iPhone 7,2
+166969,Karteek,Flatscreen TV,1
+166970,Tarun,Macbook Pro Laptop,2
+166971,Mallikarjun,iPhone 7s,3
+166972,Madhurima,Samsung m10,1
+166972,Harsha,iPhone 7s,1
+166973,Mallikarjun,Bose SoundSport Headphones,1
+166974,Venki,LG Dryer,1
+166975,Harsha,27in FHD Monitor,2
+166976,Partha,iPhone 7s,1
+166977,Kedar,ThinkPad Laptop,1
+166978,Nireekshan,Apple Airpods Headphones,2
+166979,Vinay,Apple Airpods Headphones,1
+166980,Harsha,Samsung m10,1
+166980,Vijay,USB-C Charging Cable,1
+166980,Partha,iPhone 9,2
+166981,Lavanya,Samsung m10,3
+166981,Mallikarjun,Samsung m10,2
+166982,Kedar,AA Batteries (4-pack),1
+166983,Vijay,iPhone 9,1
+166984,Partha,Samsung m20,3
+166985,Sagar,20in Monitor,1
+166986,Pradhan,Macbook Pro Laptop,1
+166987,Jaya Chandra,iPhone 7s,1
+166988,Mallikarjun,Wired Headphones,3
+166989,Pradhan,Apple Airpods Headphones,1
+166990,Vijay,34in Ultrawide Monitor,1
+166991,Sumanth,LG Washing Machine,1
+166992,Balaji,iPhone 7s,2
+166993,Siddhu,Wired Headphones,2
+166994,Kedar,iPhone 7s,1
+166994,Harsha,27in 4K Gaming Monitor,2
+166995,Karteek,Flatscreen TV,1
+166996,Sumanth,Bose SoundSport Headphones,3
+166997,Sagar,LG Washing Machine,1
+166998,Vijay,iPhone 9,3
+166999,Harsha,27in FHD Monitor,1
+167000,Chaithanya,Bose SoundSport Headphones,1
+167001,Vinay,27in FHD Monitor,1
+167002,Harsha,AA Batteries (4-pack),1
+167003,Tarun,Bose SoundSport Headphones,2
+167004,Sumanth,Flatscreen TV,1
+167005,Kedar,34in Ultrawide Monitor,2
+167006,Pradhan,Samsung m20,1
+167007,Sagar,27in 4K Gaming Monitor,1
+167008,Shahid,20in Monitor,1
+167009,Sumanth,iPhone 9,2
+167010,Chaithanya,iPhone 11,3
+167011,Siddhu,Bose SoundSport Headphones,1
+167012,Sumanth,34in Ultrawide Monitor,3
+167013,Sumanth,Macbook Pro Laptop,1
+167014,Sagar,iPhone 11,3
+167015,Madhurima,27in 4K Gaming Monitor,3
+167016,Jaya Chandra,AA Batteries (4-pack),1
+167017,Madhurima,LG Washing Machine,2
+167018,Balaji,ThinkPad Laptop,1
+167019,Veeru,Macbook Pro Laptop,2
+167020,Sumanth,LG Dryer,1
+167021,Mallikarjun,Macbook Pro Laptop,1
+167022,Venki,27in FHD Monitor,1
+167023,Pradhan,34in Ultrawide Monitor,1
+167024,Venu,Samsung m10,1
+167025,Vinay,27in 4K Gaming Monitor,2
+167025,Balaji,Samsung m20,3
+167026,Venki,Samsung m20,1
+167027,Balaji,Macbook Pro Laptop,1
+167028,Kedar,iPhone 7s,1
+167029,Sagar,27in 4K Gaming Monitor,1
+167029,Siddhu,iPhone 7s,1
+167029,Venki,Samsung m20,1
+167030,Vijay,Samsung m10,1
+167031,Lavanya,AA Batteries (4-pack),2
+167031,Karteek,LG Washing Machine,1
+167032,Chaithanya,20in Monitor,2
+167033,Sumanth,34in Ultrawide Monitor,3
+167034,Venki,iPhone 7s,1
+167035,Sagar,LG Washing Machine,1
+167036,Venki,iPhone 7s,1
+167037,Siddhu,LG Dryer,1
+167038,Karteek,LG Dryer,2
+167039,Venki,ThinkPad Laptop,1
+167040,Neelima,Wired Headphones,2
+167041,Karteek,Samsung m20,2
+167042,Sumanth,27in 4K Gaming Monitor,1
+167043,Vinay,LG Dryer,2
+167044,Nireekshan,Bose SoundSport Headphones,2
+167045,Venki,Wired Headphones,1
+167046,Madhurima,AA Batteries (4-pack),3
+167047,Mallikarjun,Bose SoundSport Headphones,1
+167048,Sumanth,iPhone 11,1
+167049,Harsha,Bose SoundSport Headphones,2
+167050,Venu,Macbook Pro Laptop,2
+167051,Siddhu,LG Dryer,2
+167052,Neelima,Flatscreen TV,1
+167053,Venki,Flatscreen TV,1
+167054,Pradhan,LG Washing Machine,1
+167055,Sagar,iPhone 11,1
+167056,Jaya Chandra,Bose SoundSport Headphones,1
+167057,Pradhan,Bose SoundSport Headphones,1
+167058,Jaya Chandra,iPhone 7s,1
+167059,Jaya Chandra,Samsung m10,1
+167060,Lavanya,AA Batteries (4-pack),1
+167061,Siddhu,iPhone 11,1
+167062,Vinay,LG Dryer,2
+167063,Venki,AA Batteries (4-pack),2
+167064,Venu,Samsung m20,1
+167065,Harsha,34in Ultrawide Monitor,1
+167066,Vinay,Google Phone,1
+167067,Madhurima,Macbook Pro Laptop,2
+167068,Kedar,ThinkPad Laptop,1
+167069,Jaya Chandra,27in FHD Monitor,3
+167070,Pradhan,20in Monitor,1
+167071,Partha,Wired Headphones,2
+167072,Venki,27in 4K Gaming Monitor,1
+167072,Tarun,iPhone 11,1
+167073,Sumanth,iPhone 7,1
+167074,Harsha,Wired Headphones,1
+167074,Lavanya,Macbook Pro Laptop,1
+167075,Lavanya,Flatscreen TV,1
+167076,Vijay,Apple Airpods Headphones,3
+167077,Partha,20in Monitor,2
+167078,Shahid,27in 4K Gaming Monitor,3
+167079,Shahid,34in Ultrawide Monitor,3
+167080,Harsha,Samsung m20,1
+167081,Balaji,USB-C Charging Cable,1
+167082,Neelima,34in Ultrawide Monitor,2
+167083,Partha,Samsung m20,2
+167084,Shahid,Macbook Pro Laptop,1
+167085,Partha,34in Ultrawide Monitor,1
+167086,Jaya Chandra,27in 4K Gaming Monitor,2
+167087,Chaithanya,iPhone 9,1
+167088,Vijay,27in FHD Monitor,1
+167089,Madhurima,Wired Headphones,2
+167090,Nireekshan,20in Monitor,1
+167091,Harsha,34in Ultrawide Monitor,1
+167092,Nireekshan,Apple Airpods Headphones,2
+167093,Vijay,ThinkPad Laptop,2
+167094,Balaji,Flatscreen TV,2
+167095,Nireekshan,Samsung m10,1
+167096,Kedar,20in Monitor,3
+167097,Pradhan,USB-C Charging Cable,3
+167098,Sagar,ThinkPad Laptop,1
+167099,Tarun,Apple Airpods Headphones,1
+167100,Neelima,Flatscreen TV,1
+167101,Balaji,iPhone 11,2
+167101,Vijay,LG Washing Machine,2
+167102,Pradhan,Flatscreen TV,1
+167103,Lavanya,iPhone 9,1
+167104,Vijay,iPhone 11,2
+167105,Veeru,LG Washing Machine,1
+167106,Mallikarjun,Wired Headphones,2
+167107,Jaya Chandra,Macbook Pro Laptop,1
+167108,Vijay,AA Batteries (4-pack),3
+167109,Shahid,Samsung m20,2
+167110,Tarun,Wired Headphones,1
+167111,Nireekshan,USB-C Charging Cable,1
+167112,Sagar,20in Monitor,1
+167113,Chaithanya,iPhone 9,1
+167113,Siddhu,Google Phone,2
+167114,Madhurima,LG Washing Machine,1
+167115,Sumanth,USB-C Charging Cable,1
+167116,Siddhu,iPhone 7s,2
+167117,Jaya Chandra,Wired Headphones,1
+167118,Mallikarjun,34in Ultrawide Monitor,1
+167119,Mallikarjun,27in 4K Gaming Monitor,1
+167120,Lavanya,Wired Headphones,3
+167121,Lavanya,LG Washing Machine,1
+167122,Chaithanya,iPhone 7,2
+167123,Karteek,Macbook Pro Laptop,1
+167124,Madhurima,Samsung m10,1
+167124,Neelima,Google Phone,1
+167125,Harsha,Flatscreen TV,3
+167126,Venu,iPhone 9,1
+167127,Venki,USB-C Charging Cable,1
+167128,Balaji,27in 4K Gaming Monitor,1
+167129,Mallikarjun,Samsung m10,1
+167130,Partha,Macbook Pro Laptop,2
+167131,Pradhan,Apple Airpods Headphones,3
+167132,Karteek,iPhone 7s,3
+167133,Sumanth,Flatscreen TV,2
+167134,Kedar,iPhone 7s,2
+167135,Veeru,LG Washing Machine,1
+167136,Kedar,Bose SoundSport Headphones,2
+167137,Pradhan,iPhone 11,1
+167138,Vinay,20in Monitor,1
+167139,Madhurima,Samsung m10,1
+167140,Lavanya,Samsung m20,2
+167141,Karteek,Flatscreen TV,1
+167142,Veeru,iPhone 7s,1
+167143,Madhurima,Bose SoundSport Headphones,2
+167144,Pradhan,27in FHD Monitor,1
+167145,Vijay,LG Dryer,1
+167146,Veeru,Samsung m20,2
+167147,Nireekshan,Samsung m20,1
+167148,Karteek,USB-C Charging Cable,2
+167149,Harsha,27in FHD Monitor,2
+167150,Tarun,ThinkPad Laptop,1
+167151,Tarun,iPhone 7s,1
+167152,Venki,Macbook Pro Laptop,1
+167153,Madhurima,20in Monitor,1
+167154,Sumanth,20in Monitor,1
+167155,Vinay,iPhone 7s,1
+167156,Kedar,Wired Headphones,1
+167157,Vijay,LG Dryer,2
+167158,Mallikarjun,Wired Headphones,1
+167158,Chaithanya,Flatscreen TV,1
+167159,Harsha,Samsung m10,1
+167160,Mallikarjun,Wired Headphones,1
+167161,Venki,Wired Headphones,1
+167162,Veeru,20in Monitor,1
+167163,Pradhan,Samsung m10,1
+167164,Sagar,USB-C Charging Cable,2
+167165,Neelima,USB-C Charging Cable,2
+167166,Vijay,Apple Airpods Headphones,3
+167167,Kedar,Macbook Pro Laptop,2
+167168,Venki,LG Washing Machine,1
+167169,Madhurima,ThinkPad Laptop,1
+167170,Siddhu,iPhone 9,2
+167171,Kedar,USB-C Charging Cable,2
+167172,Balaji,Macbook Pro Laptop,1
+167173,Tarun,Bose SoundSport Headphones,1
+167174,Vijay,LG Dryer,2
+167175,Kedar,Wired Headphones,3
+167176,Shahid,Macbook Pro Laptop,2
+167177,Venu,Samsung m10,1
+167178,Venu,iPhone 9,1
+167179,Sumanth,Apple Airpods Headphones,1
+167180,Sumanth,iPhone 7s,3
+167181,Venki,Wired Headphones,1
+167182,Lavanya,Samsung m10,3
+167183,Venki,34in Ultrawide Monitor,1
+167184,Pradhan,Samsung m20,2
+167185,Venu,Google Phone,2
+167186,Partha,iPhone 9,1
+167187,Tarun,USB-C Charging Cable,2
+167188,Neelima,Wired Headphones,2
+167189,Partha,ThinkPad Laptop,2
+167190,Balaji,Samsung m10,1
+167191,Balaji,27in 4K Gaming Monitor,1
+167192,Chaithanya,27in FHD Monitor,1
+167193,Chaithanya,Apple Airpods Headphones,2
+167194,Siddhu,Apple Airpods Headphones,1
+167195,Venki,Samsung m20,1
+167196,Mallikarjun,Apple Airpods Headphones,3
+167197,Kedar,Wired Headphones,2
+167198,Jaya Chandra,USB-C Charging Cable,1
+167199,Lavanya,AA Batteries (4-pack),1
+167200,Sumanth,AA Batteries (4-pack),2
+167201,Madhurima,Bose SoundSport Headphones,2
+167202,Harsha,Apple Airpods Headphones,1
+167203,Chaithanya,27in 4K Gaming Monitor,1
+167204,Harsha,iPhone 9,3
+167205,Mallikarjun,Bose SoundSport Headphones,2
+167206,Kedar,20in Monitor,1
+167207,Lavanya,34in Ultrawide Monitor,2
+167208,Veeru,34in Ultrawide Monitor,1
+167209,Venki,Apple Airpods Headphones,1
+167210,Sumanth,USB-C Charging Cable,2
+167211,Lavanya,AA Batteries (4-pack),1
+167212,Partha,LG Dryer,1
+167213,Venu,USB-C Charging Cable,2
+167214,Sagar,Bose SoundSport Headphones,3
+167215,Vijay,LG Dryer,1
+167216,Pradhan,Samsung m10,2
+167217,Vinay,34in Ultrawide Monitor,3
+167218,Jaya Chandra,Samsung m10,2
+167219,Lavanya,27in 4K Gaming Monitor,1
+167220,Harsha,iPhone 7,1
+167221,Harsha,AA Batteries (4-pack),2
+167222,Shahid,iPhone 7,2
+167223,Kedar,Wired Headphones,1
+167224,Siddhu,AA Batteries (4-pack),3
+167225,Mallikarjun,34in Ultrawide Monitor,1
+167226,Lavanya,AA Batteries (4-pack),2
+167227,Siddhu,iPhone 7,3
+167228,Tarun,Apple Airpods Headphones,1
+167228,Neelima,Samsung m10,1
+167229,Pradhan,iPhone 11,1
+167230,Venu,Samsung m20,1
+167231,Vijay,Bose SoundSport Headphones,1
+167232,Lavanya,Apple Airpods Headphones,1
+167233,Madhurima,AA Batteries (4-pack),1
+167234,Vijay,Samsung m10,1
+167235,Balaji,ThinkPad Laptop,3
+167236,Neelima,Samsung m10,3
+167237,Siddhu,Google Phone,2
+167238,Lavanya,LG Washing Machine,1
+167239,Venu,Samsung m10,1
+167240,Chaithanya,Samsung m20,1
+167241,Nireekshan,iPhone 7,1
+167242,Jaya Chandra,Flatscreen TV,3
+167243,Nireekshan,ThinkPad Laptop,1
+167244,Karteek,Samsung m10,2
+167245,Siddhu,Apple Airpods Headphones,1
+167246,Mallikarjun,iPhone 11,2
+167247,Karteek,Samsung m10,1
+167248,Karteek,Wired Headphones,2
+167249,Chaithanya,iPhone 9,3
+167250,Venu,27in FHD Monitor,1
+167251,Pradhan,AA Batteries (4-pack),1
+167251,Madhurima,iPhone 7,2
+167252,Veeru,Samsung m20,1
+167253,Nireekshan,ThinkPad Laptop,2
+167254,Kedar,iPhone 9,1
+167255,Sumanth,Macbook Pro Laptop,2
+167256,Harsha,Apple Airpods Headphones,1
+167257,Kedar,Samsung m20,1
+167258,Nireekshan,iPhone 11,1
+167259,Partha,27in 4K Gaming Monitor,2
+167260,Karteek,iPhone 11,2
+167261,Mallikarjun,34in Ultrawide Monitor,1
+167262,Siddhu,iPhone 7,1
+167263,Pradhan,Apple Airpods Headphones,1
+167264,Balaji,34in Ultrawide Monitor,1
+167265,Vijay,iPhone 9,2
+167266,Nireekshan,LG Dryer,1
+167267,Shahid,iPhone 11,1
+167268,Pradhan,iPhone 7,2
+167268,Venu,iPhone 11,1
+167269,Jaya Chandra,Bose SoundSport Headphones,1
+167270,Vinay,USB-C Charging Cable,1
+167271,Pradhan,Wired Headphones,2
+167272,Karteek,Apple Airpods Headphones,2
+167273,Tarun,Macbook Pro Laptop,1
+167274,Shahid,Bose SoundSport Headphones,1
+167275,Venu,iPhone 11,2
+167276,Jaya Chandra,USB-C Charging Cable,1
+167277,Veeru,LG Dryer,2
+167278,Harsha,AA Batteries (4-pack),1
+167279,Kedar,Samsung m10,1
+167279,Vijay,34in Ultrawide Monitor,1
+167280,Sumanth,Samsung m20,1
+167281,Vijay,Macbook Pro Laptop,1
+167282,Veeru,Flatscreen TV,1
+167283,Kedar,27in 4K Gaming Monitor,1
+167283,Siddhu,Samsung m10,1
+167284,Karteek,Wired Headphones,2
+167285,Veeru,Flatscreen TV,1
+167286,Jaya Chandra,iPhone 7s,1
+167287,Lavanya,Samsung m10,2
+167288,Lavanya,iPhone 7s,1
+167289,Shahid,Bose SoundSport Headphones,3
+167290,Vinay,Wired Headphones,2
+167291,Venki,iPhone 7,1
+167292,Harsha,iPhone 11,1
+167293,Harsha,iPhone 7,1
+167409,Sagar,34in Ultrawide Monitor,1
+167294,Chaithanya,iPhone 7,1
+167295,Siddhu,Flatscreen TV,1
+167296,Karteek,27in 4K Gaming Monitor,1
+167297,Partha,ThinkPad Laptop,1
+167298,Sagar,Wired Headphones,1
+167299,Nireekshan,Google Phone,3
+167300,Venu,Macbook Pro Laptop,1
+167301,Venki,Apple Airpods Headphones,3
+167302,Sumanth,USB-C Charging Cable,2
+167303,Karteek,Bose SoundSport Headphones,3
+167304,Veeru,iPhone 11,1
+167305,Lavanya,Samsung m10,1
+167306,Nireekshan,Flatscreen TV,1
+167307,Sagar,27in 4K Gaming Monitor,1
+167308,Venki,Samsung m10,1
+167309,Nireekshan,LG Dryer,1
+167310,Nireekshan,34in Ultrawide Monitor,1
+167311,Sagar,iPhone 11,1
+167312,Vinay,34in Ultrawide Monitor,1
+167313,Sumanth,Bose SoundSport Headphones,1
+167314,Chaithanya,27in FHD Monitor,3
+167315,Kedar,Macbook Pro Laptop,1
+167316,Harsha,34in Ultrawide Monitor,1
+167317,Balaji,Bose SoundSport Headphones,2
+167318,Vinay,34in Ultrawide Monitor,1
+167319,Tarun,Samsung m10,1
+167320,Madhurima,Macbook Pro Laptop,1
+167321,Vinay,27in 4K Gaming Monitor,1
+167322,Nireekshan,27in 4K Gaming Monitor,1
+167323,Siddhu,Samsung m10,1
+167324,Tarun,Samsung m10,1
+167325,Harsha,iPhone 7s,1
+167326,Partha,Samsung m20,1
+167327,Neelima,20in Monitor,3
+167328,Sumanth,34in Ultrawide Monitor,2
+167329,Karteek,ThinkPad Laptop,1
+167330,Chaithanya,Wired Headphones,1
+167331,Venu,Apple Airpods Headphones,1
+167332,Lavanya,Google Phone,2
+167332,Siddhu,Samsung m20,3
+167333,Siddhu,Samsung m10,1
+167334,Venki,27in 4K Gaming Monitor,1
+167335,Jaya Chandra,27in 4K Gaming Monitor,1
+167336,Pradhan,USB-C Charging Cable,2
+167337,Vinay,Apple Airpods Headphones,2
+167338,Lavanya,Samsung m20,1
+167339,Madhurima,27in FHD Monitor,1
+167340,Shahid,Flatscreen TV,1
+167341,Karteek,27in 4K Gaming Monitor,2
+167408,Veeru,20in Monitor,3
+167342,Neelima,iPhone 7s,2
+167343,Venki,LG Dryer,1
+167344,Pradhan,Samsung m10,1
+167345,Venu,Apple Airpods Headphones,1
+167346,Vijay,iPhone 7s,1
+167347,Pradhan,Samsung m10,1
+167348,Sagar,Bose SoundSport Headphones,2
+167349,Karteek,iPhone 7,1
+167350,Sagar,27in 4K Gaming Monitor,1
+167351,Neelima,Macbook Pro Laptop,1
+167352,Chaithanya,LG Dryer,1
+167353,Jaya Chandra,Flatscreen TV,2
+167354,Sumanth,Bose SoundSport Headphones,1
+167355,Partha,Samsung m10,2
+167356,Pradhan,34in Ultrawide Monitor,1
+167357,Sumanth,Samsung m20,1
+167358,Sagar,Samsung m20,3
+167359,Mallikarjun,LG Washing Machine,2
+167360,Lavanya,27in 4K Gaming Monitor,1
+167361,Chaithanya,27in FHD Monitor,3
+167362,Balaji,Wired Headphones,1
+167363,Harsha,Apple Airpods Headphones,1
+167364,Veeru,iPhone 9,3
+167365,Siddhu,Samsung m20,1
+167366,Vinay,Bose SoundSport Headphones,1
+167367,Lavanya,Google Phone,2
+167367,Neelima,ThinkPad Laptop,1
+167368,Jaya Chandra,Samsung m10,3
+167369,Sagar,iPhone 11,1
+167370,Venki,27in 4K Gaming Monitor,1
+167371,Pradhan,Samsung m10,1
+167372,Mallikarjun,Flatscreen TV,1
+167373,Partha,Apple Airpods Headphones,2
+167374,Karteek,AA Batteries (4-pack),2
+167375,Veeru,27in 4K Gaming Monitor,1
+167376,Balaji,Apple Airpods Headphones,2
+167377,Lavanya,Samsung m10,3
+167378,Jaya Chandra,AA Batteries (4-pack),1
+167378,Vinay,AA Batteries (4-pack),1
+167379,Madhurima,iPhone 11,2
+167380,Siddhu,Apple Airpods Headphones,1
+167381,Nireekshan,LG Washing Machine,2
+167382,Veeru,Google Phone,2
+167383,Harsha,Samsung m10,2
+167384,Balaji,Samsung m10,1
+167385,Lavanya,Bose SoundSport Headphones,1
+167386,Karteek,LG Washing Machine,2
+167387,Balaji,iPhone 7,1
+167387,Karteek,Google Phone,2
+167388,Balaji,27in 4K Gaming Monitor,3
+167389,Pradhan,USB-C Charging Cable,1
+167390,Neelima,AA Batteries (4-pack),3
+167391,Partha,LG Dryer,3
+167392,Karteek,Bose SoundSport Headphones,2
+167393,Venki,Apple Airpods Headphones,2
+167394,Neelima,AA Batteries (4-pack),1
+167395,Nireekshan,LG Dryer,1
+167396,Venki,LG Dryer,3
+167397,Mallikarjun,LG Dryer,2
+167398,Mallikarjun,iPhone 7s,1
+167399,Siddhu,Samsung m10,1
+167400,Chaithanya,27in 4K Gaming Monitor,1
+167401,Mallikarjun,iPhone 11,1
+167402,Kedar,Samsung m10,1
+167403,Balaji,Macbook Pro Laptop,1
+167404,Lavanya,ThinkPad Laptop,1
+167405,Venu,Flatscreen TV,1
+167406,Siddhu,Samsung m20,2
+167407,Tarun,LG Washing Machine,1
